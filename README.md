@@ -1,4 +1,4 @@
-# Ruby Object Attributes Lab
+  # Ruby Object Attributes Lab
 
 ## Objectives
 
@@ -42,5 +42,3 @@ You'll be teaching `Person` about their jobs through two methods, `#job`, and
 When you're done submit the lab with `learn submit`
 
 <p data-visibility='hidden'>KWK-L1 Ruby Object Attributes Lab</p>
-
-

@@ -1,1 +1,3 @@
-# person.rb
+def name=(name)
+  @name= name
+end
